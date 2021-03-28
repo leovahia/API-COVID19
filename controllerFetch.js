@@ -1,4 +1,4 @@
-    (()=>{    
+      
     const button = document.getElementById("button-addon2");
 
     button.addEventListener("click", ()=>{
@@ -48,6 +48,5 @@
            alert("Erro na digitação da solicitação, por favor repita o pedido.")
         });
     });
-})();
 
   //mais informações sobre o banco: https://github.com/marketplace/actions/covid-19-stats-timeseries  
